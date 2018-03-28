@@ -1,0 +1,13 @@
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+run/
+logs/
+npm-debug.log
+node_modules/
+coverage/
+.idea/
+.DS_Store
+*.swp
+yarn.lock
