@@ -1,10 +1,17 @@
 {
   "name": "egg-camel-snake",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "egg to camel to snake",
   "eggPlugin": {
     "name": "camelSnake"
   },
+  "keywords": [
+    "egg",
+    "eggPlugin",
+    "egg-plugin",
+    "camel",
+    "snake"
+  ],
   "dependencies": {
     "egg": "^2.2.1",
     "egg-scripts": "^2.5.0",
